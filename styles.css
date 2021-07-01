@@ -1,0 +1,55 @@
+*{
+
+}
+body{
+    background: linear-gradient(62.28deg, rgba(195, 178, 244, 0.99) -6.43%, rgba(97, 175, 180, 0) 99.99%, rgba(0, 240, 255, 0) 100%), rgba(88, 255, 215, 0.5);
+
+}
+a{
+    color:#ffffff;
+    text-decoration: none;
+    font-family: 'Karma', serif;
+}
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.topb{
+    margin-top: 10px;
+    height: 40px;
+
+}
+.topbar {
+    width: 90%;
+
+    margin: auto;
+}
+.topbar .navmain{
+    font-size: 17px;
+    justify-content: space-between;
+
+    display: flex;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+    color: #ffffff;
+}
